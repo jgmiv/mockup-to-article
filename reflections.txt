@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+I have learned how to use various tags to create emphasis and bold text along with adding hyperlinks to text.  
+
+Creating bold, strike through, paragraphs, horizontal rule and emphasized text has been the easiest things to do.
+
+I had to search a little more for the <a href = ””> to create the hyperlink in the text.
+
+I have been searching the HTML cheatsheet and the MDN site for answers. 
